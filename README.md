@@ -12,11 +12,11 @@ Me chamo Marcelo Felipe Borges, tenho 22 anos e sou natural do Santo André. Atu
             src="https://custom-icon-badges.demolab.com/github/stars/Marceloux?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=estrelas"
         />
     </a>
-    <a href="https://www.instagram.com/marceloux/">
+    <a href="https://github.com/Marceloux">
         <img 
             alt="Seguidores" 
-            title="Me siga no Instagram" 
-            src="https://custom-icon-badges.demolab.com/github/followers/Larissakich?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Seguidores&logoColor=white"
+            title="Me siga no GitHub" 
+            src="https://custom-icon-badges.demolab.com/github/followers/Marceloux?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Seguidores&logoColor=white"
         />
     </a>
 </p>
