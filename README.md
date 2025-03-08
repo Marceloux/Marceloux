@@ -2,7 +2,7 @@
 
 **`Desenvolvedor FullStack`**
 
-Me chamo Marcelo Felipe Borges, tenho 22 anos e sou natural do Santo André. Atualmente, estou cursando Análise e Desenvolvimento de Sistemas na FIAP. Sou apaixonado por tecnologia.
+Olá! Me chamo Marcelo Felipe Borges, tenho 22 anos e sou natural de Santo André. Atualmente, estou cursando Análise e Desenvolvimento de Sistemas na FIAP. Sou apaixonado por tecnologia e inovação, sempre buscando aprimorar minhas habilidades e enfrentar novos desafios no desenvolvimento de software.🚀
 
 ---
 
